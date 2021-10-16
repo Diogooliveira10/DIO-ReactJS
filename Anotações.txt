@@ -32,3 +32,12 @@ de componentes.
     Sintax Suggar para React.createElment;
 
     O browser não interpreta o JSX, para isso é necessário um transpilador para que a aplicação possa entender o código. O mais utilizado é o Babel.
+
+Renderização de elementos
+    React Dom é o que vai renderizar os elementos do React, toda renderização é feita em nós raíz.
+    React "pensa" em como a interface deve estar a cada momento ao invés de altera-la com o tempo, o que faz ter ganho de performance e evita
+uma série de erros.
+
+Componentes e Props
+
+    Componente pode trabalhar de duas formas função e classe
