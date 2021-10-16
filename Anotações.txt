@@ -18,3 +18,17 @@ interface do usuário.
 2015 - UWP (Universal Windowns Platform)
 
 Empresas que utiliza o React: Facebook, Instagram, Netflix, ifood, luizalabs, entre outros...
+
+O que é JSX?
+    JSX é uma linguagem de marcação criada para pode criar elementos primitivos e estrutura HTML, e ter todo poder do JavaScript dentro dele.
+Podendo executar funções JavaScript, ter variáveis dentro do JSX.
+
+    * const element = <h1> Hello, world! </h1> -> Nem HTML e nem uma string! 
+
+    React não separa as tecnologias colocando marcação em arquivos separados, e sim separa conceitos e mantém o código pouco acoplado chamando-os
+de componentes.
+
+    Não é obrigatório a utilização do JSX;
+    Sintax Suggar para React.createElment;
+
+    O browser não interpreta o JSX, para isso é necessário um transpilador para que a aplicação possa entender o código. O mais utilizado é o Babel.
