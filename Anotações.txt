@@ -1,0 +1,20 @@
+O que é React?
+    "Uma biblioteca JavaScript para criar interfaces de usuários", ou seja, React é uma biblioteca e não um framework!
+A principal função é a criação da interface para o usuário. React é uma linguagem declarativa, está preocupado apenas com o que é exibido na
+interface do usuário.
+
+    * Vantagens de utilizar React como biblioteca:
+        Tendo mais controle sobre sua aplicação, não fica amarrado a um framework e a evolução dele e podendo trabalhar com JavaScript
+    de forma mais simples. Pode ser utilizado em qualquer lugar, dispositivos celulares, criação de PWA, front-end e também no back-end.
+    React é baseado em componentes.
+    
+    Criado em 2011 por Jordan Walker engenheiro do Facebook;
+    Baseado no XHP, um framework para criação de HTML no PHP;
+    Utilizado no mural de notícias da ferramenta.
+
+2012 - Utilizado no Instagram
+2013 - Anúncio para liberação OpenSource na JSconfig US
+2015 - React Native
+2015 - UWP (Universal Windowns Platform)
+
+Empresas que utiliza o React: Facebook, Instagram, Netflix, ifood, luizalabs, entre outros...
