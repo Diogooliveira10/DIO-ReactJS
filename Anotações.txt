@@ -46,6 +46,9 @@ Estado e Ciclo de ViDA
     Montagem;
     Atualização;
     Desmonetagem.
-    
+
     Nenhum componente pai ou filho devem saber se outro componente possui estado ou não. O estado é apenas local ao componente e caso seja
 necessário enviar algum atributo para outro então é feiro via props.
+
+O que é Webpack?
+    É um module bundler um empacotador de módulos para aplicação JS), gerando bundler que será utilizado no HTML, em ES5.
