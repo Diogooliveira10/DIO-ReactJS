@@ -39,5 +39,13 @@ Renderização de elementos
 uma série de erros.
 
 Componentes e Props
-
     Componente pode trabalhar de duas formas função e classe
+
+Estado e Ciclo de ViDA
+    Inicialização;
+    Montagem;
+    Atualização;
+    Desmonetagem.
+    
+    Nenhum componente pai ou filho devem saber se outro componente possui estado ou não. O estado é apenas local ao componente e caso seja
+necessário enviar algum atributo para outro então é feiro via props.
