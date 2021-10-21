@@ -67,3 +67,10 @@ O que é Webpack?
         npm i -D webpack webpack-cli
         "build": "webpack --mode production"
         npm i @babel/core babel-loader @babel/preset-env @babel/preset-react --save-dev
+
+O que é ESLint?
+    Manter a qualidade do código e um padrão pro time no desenvolvimento, evitando alguns erros.
+
+    configuração:
+
+        npm install --save-dev eslint babel-eslint eslint-plugin-react eslint-watch
