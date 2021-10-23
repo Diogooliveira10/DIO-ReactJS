@@ -74,3 +74,8 @@ O que é ESLint?
     configuração:
 
         npm install --save-dev eslint babel-eslint eslint-plugin-react eslint-watch
+
+Renderização Condicional
+    "Em React, você pode criar componentes distintos que encapsulam o comportamento que você precisa. Então, você pode renderizar apenas
+alguns dos elementos, dependendo do estado da sua aplicação."
+    https://pt-br.reactjs.org/docs/conditional-rendering.html
