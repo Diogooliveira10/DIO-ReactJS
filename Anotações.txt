@@ -1,7 +1,8 @@
 O que é React?
     "Uma biblioteca JavaScript para criar interfaces de usuários", ou seja, React é uma biblioteca e não um framework!
 A principal função é a criação da interface para o usuário. React é uma linguagem declarativa, está preocupado apenas com o que é exibido na
-interface do usuário.
+interface do usuário. React é uma biblioteca onde é uma boa prática criar vários componentes e elementos para deixar o código mais legível
+e reaproveitável.
 
     * Vantagens de utilizar React como biblioteca:
         Tendo mais controle sobre sua aplicação, não fica amarrado a um framework e a evolução dele e podendo trabalhar com JavaScript
@@ -51,7 +52,7 @@ Estado e Ciclo de ViDA
 necessário enviar algum atributo para outro então é feiro via props.
 
 O que é Webpack?
-    É um module bundler um empacotador de módulos para aplicação JS), gerando bundler que será utilizado no HTML, em ES5.
+    É um module bundler (um empacotador de módulos para aplicação JS) gerando bundler que será utilizado no HTML em ES5.
 
     Principais conceitos do Webpack:
         * Entry - Utilizando grafo, o Webpack precisa de um ponto de entreda para buscar todos os módulose dependências.
